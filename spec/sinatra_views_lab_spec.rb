@@ -1,3 +1,4 @@
+
 describe App do
 
   describe 'GET /hello' do
@@ -49,4 +50,3 @@ describe App do
     end
   end
 end
-
